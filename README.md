@@ -13,7 +13,7 @@
 ## 📦 Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/GalkinLang.git
+git clone https://github.com/sanikum3/GalkinLang.git
 cd GalkinLang
 ## 🚀 Быстрый старт
 
